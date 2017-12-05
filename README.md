@@ -1,7 +1,7 @@
 # Traffic Sign Classifier
 
 ## Overview
-Convolutional Nueral Network to classify traffic signs from the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). The model is based on the famous [LeNet-5 architecture](http://yann.lecun.com/exdb/lenet/)
+Convolutional Neural Network (CNN) to classify traffic signs from the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). The model is based on the famous [LeNet-5 architecture](http://yann.lecun.com/exdb/lenet/)
 
 ### Dataset Exploration and Augmentation
 The German Traffic Sign Dataset contains 51,839 images with 43 different unique sign types (classes). Each image has been resized to 32x32x3. Examples:
