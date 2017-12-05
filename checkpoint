@@ -1,2 +1,2 @@
-model_checkpoint_path: "robertnet"
-all_model_checkpoint_paths: "robertnet"
+model_checkpoint_path: "modified_lenet5"
+all_model_checkpoint_paths: "modified_lenet5"
